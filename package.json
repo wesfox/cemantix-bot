@@ -1,0 +1,23 @@
+{
+  "name": "cemantix-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wesfox/cemantix-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wesfox/cemantix-bot/issues"
+  },
+  "homepage": "https://github.com/wesfox/cemantix-bot#readme",
+  "devDependencies": {
+    "@tsconfig/deno": "^1.0.6",
+    "typescript": "^4.8.4"
+  }
+}
